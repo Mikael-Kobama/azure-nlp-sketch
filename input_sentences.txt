@@ -1,0 +1,4 @@
+A Microsoft é uma das maiores empresas de tecnologia do mundo.
+O Azure fornece uma gama de serviços em nuvem, como IA, análise de dados e computação.
+A inteligência artificial está transformando a maneira como as empresas operam.
+O processamento de linguagem natural pode entender e gerar texto.
